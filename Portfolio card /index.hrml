@@ -1,0 +1,64 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>M WAQAS ZAFAR - PERSONAL</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="header">
+        <nav>
+            <a href="#" class="logo">WAQAS</a>
+            <div class="nav-links">
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Services</a></li>
+                    <li><a href="https://waqas-zafar.netlify.app/">Portfolio</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Connect</a></li>
+                </ul>
+            </div>
+        </nav>
+        <div class="left-sidebar"></div>
+        <div class="row">
+            <div class="left-col">
+                <img src="images/IMG-20230721-WA0054.jpg">
+            </div>
+            <div class="right-col">
+                <h1>I'M M WAQAS ZAFAR</h1>
+                <p>I am a passionate explorer of the digital universe, driven by an unquenchable thirst for knowledge. With a strong foundation in fundamental concepts and a burning desire to innovate, I'm excited to contribute to the world of technology.</p>
+                    <div class="social-icon">
+                        <div class="icon">
+                            <img src="images/facebook.png">
+                            <a href="">
+                            <img src="images/link.png">
+                             </a>
+                        </div>
+                        <div class="icon">
+                            <img src="images/youtube.png">
+                            <a href="https://www.youtube.com/channel/UCDFizUw9WpVccjV51Vc_5hg">
+                            <img src="images/link.png">
+                             </a>
+                        </div>
+                        <div class="icon">
+                            <img src="images/twitter.png">
+                            <a href="https://twitter.com/waqas_zafar_01">
+                            <img src="images/link.png">
+                             </a>
+                        </div>
+                        <div class="icon">
+                            <img src="images/instagram.png">
+                            <a href="https://www.instagram.com/m_waqaszafarofficial/">
+                            <img src="images/link.png">
+                             </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
